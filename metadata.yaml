@@ -1,0 +1,26 @@
+_repo: Travels-in-Arabia-comprehending-an-account-of-those-territories-in-Hedjaz-which-the-Mohammedan__9457
+creator:
+  author:
+    agent_name: Burckhardt, John Lewis
+    alias: Burckhardt, J. Louis
+    birthdate: 1784
+    deathdate: 1817
+    gutenberg_agent_id: '2916'
+    url: http://www.gutenberg.org/2009/agents/2916
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Ludwig_Burckhardt
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabian Peninsula -- Description and travel'
+- !lcc 'DS'
+title: Travels in Arabia; comprehending an account of those territories in Hedjaz
+  which the Mohammedans regard as sacred
+url: http://www.gutenberg.org/ebooks/9457
