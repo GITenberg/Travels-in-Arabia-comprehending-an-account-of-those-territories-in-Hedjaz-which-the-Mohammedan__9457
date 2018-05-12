@@ -1,4 +1,8 @@
 _repo: Travels-in-Arabia-comprehending-an-account-of-those-territories-in-Hedjaz-which-the-Mohammedan__9457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burckhardt, John Lewis
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2916
     wikipedia: http://en.wikipedia.org/wiki/Johann_Ludwig_Burckhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9457#Travels-in-Arabia-comprehending-an-account-of-those-territories-in-Hedjaz-which-the-Mohammedan_
 gutenberg_bookshelf: Islam
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
